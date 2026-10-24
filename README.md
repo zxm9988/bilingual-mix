@@ -19,3 +19,5 @@ Bilingual Mix is a browser-based listening tool for language learners. Bring an 
 - [English product page](https://bilingualmix.com/en/)
 - [Chinese product page](https://bilingualmix.com/zh/)
 - [Japanese product page](https://bilingualmix.com/ja/)
+
+<a href="https://boringcashcow.com/" target="_blank" rel="noopener"><img src="https://boringcashcow.com/img/badge/boringcashcow-badge-light.svg" alt="Bilingual Mix - Featured on BoringCashCow" width="200" height="54"></a>

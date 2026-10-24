@@ -20,7 +20,9 @@
     article { padding:24px; border:1px solid rgba(23,33,27,.13); border-radius:20px; background:rgba(255,255,255,.55); }
     article h2 { margin:0 0 10px; font-size:18px; }
     article p { margin:0; color:var(--muted); line-height:1.55; }
-    footer { margin-top:56px; padding-top:24px; border-top:1px solid rgba(23,33,27,.13); color:var(--muted); font-size:14px; }
+    footer { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:18px; margin-top:56px; padding-top:24px; border-top:1px solid rgba(23,33,27,.13); color:var(--muted); font-size:14px; }
+    .directory-badge { display:inline-flex; }
+    .directory-badge img { width:200px; height:54px; }
     @media (max-width:760px) { .grid { grid-template-columns:1fr; } main { padding-top:40px; } }
   </style>
 </head>
@@ -35,7 +37,10 @@
       <article><h2>Stay with the story</h2><p>Bring audiobooks, podcasts or lessons you already know in both languages.</p></article>
       <article><h2>Listen anywhere</h2><p>Export one standard MP3 for your phone, computer or offline player.</p></article>
     </section>
-    <footer>Bilingual Mix · <a href="https://bilingualmix.com/en/">Official product site</a></footer>
+    <footer>
+      <span>Bilingual Mix · <a href="https://bilingualmix.com/en/">Official product site</a></span>
+      <a class="directory-badge" href="https://boringcashcow.com/" target="_blank" rel="noopener"><img src="https://boringcashcow.com/img/badge/boringcashcow-badge-light.svg" alt="Bilingual Mix - Featured on BoringCashCow" width="200" height="54"></a>
+    </footer>
   </main>
 </body>
 </html>
