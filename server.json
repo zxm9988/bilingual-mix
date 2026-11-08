@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.zxm9988/bilingual-mix",
+  "description": "Remote MCP server for Bilingual Mix: turn parallel text or two matching recordings into one sentence-by-sentence alternating bilingual audio track for language listening practice.",
+  "version": "1.0.0",
+  "websiteUrl": "https://bilingualmix.com/en/mcp",
+  "repository": {
+    "url": "https://github.com/zxm9988/bilingual-mix",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://bilingualmix.com/mcp"
+    }
+  ]
+}
