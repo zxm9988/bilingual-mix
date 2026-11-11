@@ -1,5 +1,7 @@
 # Bilingual Mix
 
+[![Bilingual Mix MCP server](https://mcprush.com/badge/bilingual-mix-mcp/card.svg)](https://mcprush.com/to/bilingual-mix-mcp?ref=badge)
+
 Turn matching Mandarin or Japanese and English audio into one sentence-by-sentence listening track.
 
 **[Try Bilingual Mix →](https://bilingualmix.com/en/)**
